@@ -20,13 +20,12 @@
 ---
 </br>
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/Avotexs">
 
-<p align="center">
   <img src="https://raw.githubusercontent.com/Avotexs/Avotexs/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/Avotexs/Avotexs/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" width="48%" />
-  <img src="https://raw.githubusercontent.com/Avotexs/Avotexs/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" width="48%" />
-</p>
+  <img src="https://raw.githubusercontent.com/Avotexs/Avotexs/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos per Language" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/Avotexs/Avotexs/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" width="32.5%" />
+
 
 </a>
 
