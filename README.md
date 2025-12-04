@@ -29,12 +29,6 @@
 
 </a>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/Avotexs/Avotexs/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
   
 <hr></hr>
 <h2> Connect with me on 👇</h2>
