@@ -35,8 +35,6 @@
 <a href="https://www.linkedin.com/in/abderrahman-doubabi-51a258104/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abderahmanedoubabi@gmail.com)
-&nbsp;
 <br />
 <a href="https://doubabi.tech/">
   <table align="right">
