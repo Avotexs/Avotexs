@@ -1,4 +1,4 @@
-# Hi there, I'm Doubabi Abderrahman! 👋
+# Hi there, I'm Abderrahman! 👋
 
 ###  I am a final-year Computer Science and Networks Engineering student, passionate about Java Backend and QA Automation.
 
